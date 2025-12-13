@@ -4,7 +4,7 @@
 - Minimum 1GB RAM
 - Debian10 above / Ubuntu20 above
 - Recommended Debian for fast installation.
-- Tested with VPS DigitalOcean(Debian 12)
+- Tested with VPS DigitalOcean (Debian 12,13). For Debian13, please update in setting for missing packages
 
 Setup:
 ```
@@ -52,4 +52,5 @@ MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 - Full Orders Support   : Yes  
 
 ───────────────────────────────  
+
 
