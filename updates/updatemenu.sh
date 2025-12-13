@@ -25,9 +25,8 @@ reset="\e[0m"
 MYIP=$(curl -s ipv4.icanhazip.com || curl -s ipinfo.io/ip || curl -s ifconfig.me)
 domain=$(cat /usr/local/etc/xray/domain)
 
-# install missing software
+# install missing packages for debian 13+
 apt update -y && apt install -y net-tools htop wget iftop
-
 
 # end scripts
 echo ""
