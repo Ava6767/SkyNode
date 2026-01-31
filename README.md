@@ -23,7 +23,7 @@ MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 - OpenSSH                        : 22  
 - Dropbear                       : 143, 109  
 - Stunnel4   : 222, 777  
-- Websocket HTTP   : 80  
+- Websocket HTTP   : 80, 8880  
 - Websocket HTTPS : 443  
 - BadVPN   : 7100, 7200, 7300  
 - Nginx   : 81  
@@ -31,7 +31,7 @@ MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 ### XRAY SERVICES
 - VMESS WS + TLS   : 443  
 - VLESS WS + TLS   : 443  
-- VMESS WS + NTLS   : 80 , 8880
+- VMESS WS + NTLS   : 80 , 2052
 - VLESS WS + NTLS   : 80 , 8080
 - VLESS HTTPUpgrade + TLS   : 443  
 - VLESS HTTPUpgrade + NTLS   : 80  
@@ -52,5 +52,6 @@ MNVR7X-M1M3AF-WWV7DT-RJKFQ7-R5V7XE-JWYPO7
 - Full Orders Support   : Yes  
 
 ───────────────────────────────  
+
 
 
